@@ -99,7 +99,7 @@
                         
             <div class="md:w-1/2 flex justify-center">
                 <div class="relative">
-                    <img src="https://via.placeholder.com/400x550/3b82f6/ffffff?text=TRANSFORMAÇÃO+TOTAL" alt="Mockup do eBook Transformação Total" class="ebook-mockup rounded-lg w-full max-w-xs md:max-w-md">
+                    <img src="file:///C:/Users/Joseane/Documents/meuEbookResetei%20(1).png" alt="Mockup do eBook Transformação Total" class="ebook-mockup rounded-lg w-full max-w-xs md:max-w-md">
                     <div class="absolute -bottom-5 -right-5 bg-yellow-400 text-gray-900 font-bold py-2 px-4 rounded-lg shadow-lg">
                         <span class="block text-sm">VERSÃO DIGITAL</span>
                         <span class="block text-xs">Disponível agora</span>
@@ -266,7 +266,7 @@
             <div class="flex flex-col md:flex-row items-center gap-12">
                 <div class="md:w-1/3 flex justify-center">
                     <div class="relative">
-                        <img src="https://via.placeholder.com/300x300/3b82f6/ffffff?text=AUTOR" alt="Autor do eBook" class="rounded-full w-48 h-48 md:w-64 md:h-64 object-cover border-4 border-blue-100 shadow-lg">
+                        <img src="file:///C:/Users/Joseane/AppData/Local/Packages/5319275A.51895FA4EA97F_cv1g1gvanyjgm/TempState/9A068B0E780E6B7B32CE92FB7070953A/Imagem%20do%20WhatsApp%20de%202025-06-18%20%C3%A0(s)%2020.24.04_7b359ce1.jpg" alt="Autor do eBook" class="rounded-full w-48 h-48 md:w-64 md:h-64 object-cover border-4 border-blue-100 shadow-lg">
                         <div class="absolute -bottom-4 -right-4 bg-blue-600 text-white py-2 px-4 rounded-lg shadow-lg">
                             <span class="block font-bold">ESPECIALISTA</span>
                             <span class="block text-xs">em Nutrição</span>
@@ -275,7 +275,7 @@
                 </div>
                                 
                 <div class="md:w-2/3">
-                    <h2 class="text-3xl font-bold text-gray-800 mb-4">Conheça o Autor: <span class="text-blue-600">[Seu Nome]</span></h2>
+                    <h2 class="text-3xl font-bold text-gray-800 mb-4">Conheça o Autor: <span class="text-blue-600">TransformaCorpo</span></h2>
                     <p class="text-lg text-gray-600 mb-6">Nutricionista com mais de 15 anos de experiência, especializado em emagrecimento saudável e mudança de hábitos.</p>
                                         
                     <div class="space-y-4 mb-6">
@@ -414,7 +414,7 @@
                         
                         <div class="flex flex-col md:flex-row items-center mb-8 gap-6">
                             <div class="flex-shrink-0">
-                                <img src="https://via.placeholder.com/150x200/3b82f6/ffffff?text=TRANSFORMAÇÃO+TOTAL" alt="eBook" class="rounded-lg shadow-md w-32">
+                                <img src="file:///C:/Users/Joseane/Documents/meuEbookResetei%20(1).png" alt="eBook" class="rounded-lg shadow-md w-32">
                             </div>
                             <div>
                                 <h3 class="text-2xl font-bold text-gray-800 mb-2">Transformação Total</h3>
@@ -474,7 +474,7 @@
                         </div>
                         
                         <div class="text-center">
-                            <a href="#" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg w-full mb-4">
+                            <a href="https://pay.kiwify.com.br/CpFaSuG" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg w-full mb-4">
                                 SIM, QUERO ME TRANSFORMAR AGORA
                             </a>
                             <p class="text-sm text-gray-500">Pagamento seguro via cartão, boleto ou PIX</p>
